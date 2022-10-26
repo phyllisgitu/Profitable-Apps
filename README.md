@@ -1,5 +1,5 @@
 # Profitable App Profiles for the App Store and Google Play Markets.
-The goal of this is to find mobile app profiles that are profitable for the App Store and Google Play markets.
+The goal of this project is to find mobile app profiles that are profitable for the App Store and Google Play markets.
 
 Collecting data for over 4 million apps requires a significant amount of time and money, so we'll try to analyze a sample of the data instead.
 To avoid spending resources on collecting new data ourselves, we should first try to see if we can find any relevant existing data at no cost. 
